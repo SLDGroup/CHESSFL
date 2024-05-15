@@ -62,6 +62,7 @@ experiments to run.
   title={CHESSFL: Clustering Hierarchical Embeddings for Semi-Supervised Federated Learning},
   author={Farcas, Allen-Jasmin and Lee, Myungjin and Payani, Ali and Kompella, Ramana Rao and Latapie, Hugo and Marculescu, Radu},
   booktitle={Proceedings of the 9th ACM/IEEE Conference on Internet of Things Design and Implementation},
+  pages={122--133},
   year={2024}
 }
 ```

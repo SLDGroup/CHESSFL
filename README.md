@@ -35,7 +35,7 @@ the client starts training on unlabeled images using our novel Pawn Promotion Lo
 ## 1. Create the virtual environment
 ```bash
 conda create -n chessfl python==3.10
-conda activate mohawk
+conda activate chessfl
 pip3 install torch torchvision torchaudio paramiko scp tqdm pandas
 ```
 

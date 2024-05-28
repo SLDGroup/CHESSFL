@@ -36,7 +36,7 @@ the client starts training on unlabeled images using our novel Pawn Promotion Lo
 ```bash
 conda create -n chessfl python==3.10
 conda activate chessfl
-pip3 install torch torchvision torchaudio paramiko scp tqdm pandas
+pip3 install torch torchvision torchaudio paramiko scp tqdm pandas scipy scikit-learn
 ```
 
 ## 2. Prepare datasets

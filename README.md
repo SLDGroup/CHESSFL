@@ -1,4 +1,4 @@
-# CHESSFL: Clustering Hierarchical Embeddings for Semi-Supervised Federated Learning
+# [CHESSFL: Clustering Hierarchical Embeddings for Semi-Supervised Federated Learning](https://ieeexplore.ieee.org/document/10562180)
 ## Allen-Jasmin Farcas, Myungjin Lee, Ali Payani, Ramana Rao Kompella, Hugo Latapie, Radu Marculescu
 
 Contact: allen.farcas@utexas.edu
